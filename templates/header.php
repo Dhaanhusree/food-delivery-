@@ -14,6 +14,7 @@
 		<link rel="stylesheet" type="text/css" href="Design/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="Design/fonts/css/all.min.css">
 		<link rel="stylesheet" type="text/css" href="Design/css/main.css">
+		<link rel="stylesheet" type="text/css" href="Design/css/responsive.css">
 
 		<!-- GOOGLE FONTS -->
 
